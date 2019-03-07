@@ -1,1 +1,4 @@
-# This repository contains my resume.
+# Puranjay Mohan's Resume
+![alt text](https://raw.githubusercontent.com/puranjaymohan/me/master/resume.jpeg)
+
+
